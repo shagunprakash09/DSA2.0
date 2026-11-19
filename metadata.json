@@ -1,0 +1,6 @@
+{
+  "name": "RailQueue DSA — Railway Reservation Waiting Queue System",
+  "description": "Modular C implementation and interactive data-structure visualizer for Railway Reservation Waiting Queue management using Doubly Linked Lists, Indexed Max-Heap, and Separate Chaining Hash Table.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
